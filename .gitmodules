@@ -1,9 +1,9 @@
 [submodule "pac"]
 	path = pac
-	url = ./pac
+	url = https://github.com/PawelLeczkowski/pac.git
 [submodule "pcl"]
 	path = pcl
-	url = ./pcl
+	url = https://github.com/PawelLeczkowski/pcl.git
 [submodule "pel"]
 	path = pel
-	url = ./pel
+	url = https://github.com/PawelLeczkowski/pel.git
