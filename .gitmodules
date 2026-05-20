@@ -1,0 +1,9 @@
+[submodule "pac"]
+	path = pac
+	url = ./pac
+[submodule "pcl"]
+	path = pcl
+	url = ./pcl
+[submodule "pel"]
+	path = pel
+	url = ./pel
